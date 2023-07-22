@@ -1,0 +1,46 @@
+form {
+  height: 350px;
+  border-bottom: 2px solid #ccc;
+}
+
+.formTitle {
+  color: #2A2A2A;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.formBodyItem {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 1em;
+}
+
+.inputLabel {
+  font-size: 1em;
+  height: 1em;
+  color: #444;
+  font-weight: 500;
+  margin-bottom: 0.5em;
+}
+
+.inputGroup6 {
+  width: 350px;
+  margin-bottom: 6px;
+}
+
+.inputGroup5 {
+  width: 250px;
+  margin-right: 20px;
+  margin-bottom: 6px;
+}
+
+.inputStyle {
+  height: 45px;
+  padding: 0 10px;
+  border-radius: 5px;
+  border: 1.5px solid #777;
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 1rem;
+}
